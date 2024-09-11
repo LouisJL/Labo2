@@ -1,0 +1,10 @@
+.image{
+    height: 300px;
+    width: 500px;
+}
+
+.banner{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+}
